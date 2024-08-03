@@ -35,5 +35,5 @@ script.onload = () => {
         }
     }
 
-    window.getWeatherByLocation = getWeatherByLocation; // Expose the function to the global scope
+    window.getWeatherByLocation = getWeatherByLocation; 
 };
